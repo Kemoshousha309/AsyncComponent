@@ -1,0 +1,2 @@
+# AsyncComponent
+Created with CodeSandbox
